@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="url">https://api.themoviedb.org/3/movie/550?api_key=c599629553579897d7941c4dbb0e7940</string>
+    <string name="btn_simple">BTN Simple</string>
+    <string name="btn_retrofit_gson">BTN Retrofit + Gson</string>
+    <string name="desc_movie_cover_image">Movie cover image</string>
+</resources>
